@@ -6,13 +6,13 @@ Quero expressar minha gratidão ao meu amigo [Polabiel](https://github.com/Polab
 
 ## Como instalar e usar o Alucard-Bot:
 
-O [**Alucard-Bot**](a) é um bot customizável, ou seja, você pode alterar, excluir e adicionar comandos novos sem interferir na estrutura do mesmo.
+O [**Alucard-Bot**](https://github.com/rickoproprio/alucard) é um bot customizável, ou seja, você pode alterar, excluir e adicionar comandos novos sem interferir na estrutura do mesmo.
 
 Esta aplicação requer [NodeJS](https://nodejs.org/).
 
 Após isso, você deverá baixar as dependências com o comando **npm i** e, em seguida, executar com **npm start**. Escaneie o QR code com sua conta do WhatsApp ou do WhatsApp do seu Bot, e simples assim, o bot já está online.
 
-Para personalizar o [**Alucard-Bot**](a), comece abrindo o arquivo ./src/config.js. Leia os comentários e faça as alterações necessárias de acordo com as necessidades do seu projeto. Após concluir essa etapa, você pode modificar a mensagem do menu em ./src/utils/messages.js. Feito isso, você estará pronto para personalizar os comandos.
+Para personalizar o [**Alucard-Bot**](https://github.com/rickoproprio/alucard), comece abrindo o arquivo ./src/config.js. Leia os comentários e faça as alterações necessárias de acordo com as necessidades do seu projeto. Após concluir essa etapa, você pode modificar a mensagem do menu em ./src/utils/messages.js. Feito isso, você estará pronto para personalizar os comandos.
 
 Inicialmente, foram configuradas as APIs de BIN, CNPJ, CEP, OPENAI e SIMSIMI, que estão localizadas em ./src/service. As demais APIs precisam ser ajustadas conforme suas necessidades.
 
