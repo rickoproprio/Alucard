@@ -24,6 +24,6 @@ Na seção de comandos em ./src/commands, há uma divisão em admin, consultas, 
 
 Essa é uma maneira segura de organizar, pois permite que você saiba exatamente onde adicionar cada novo comando.
 
-# Obrigado
+# Agradecimento
 
 Desde então, expresso meu profundo agradecimento a todos que utilizaram nosso robô. Espero que ele tenha feito realmente alguma diferença na sua experiência com o mensageiro Whatsapp. Nosso intuito sempre foi aplicar nosso conhecimento para o benefício de todos. Esperamos nos reencontrarmos em breve. Até já!
