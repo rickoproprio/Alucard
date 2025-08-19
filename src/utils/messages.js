@@ -29,14 +29,10 @@ exports.menuMessage = `╭━━─「🌎」─━━
 ▢ • *NOTAS* (exibe as ultimas atualizações)
  ✩┈┈∘*┈🌙┈*∘┈┈✩.°
          *𝐂𝐎𝐍𝐒𝐔𝐋𝐓𝐀𝐒*
-▢ • *REMOCAO* (excluir seus dados)
+
 ▢ • *BIN*
 ▢ • *CEP*
-▢ • *CNPJ* (1)
-▢ • *CPF* (1,2,3,4,5)
-▢ • *NOME* (1)
-▢ • *PLACA* (1,2)
-▢ • *TEL* (1,2,3)
+▢ • *CNPJ*
  ╰━━─「🚀」─━━`;
 
 
